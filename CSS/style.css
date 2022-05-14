@@ -1,0 +1,119 @@
+body{
+    font-family: system-ui,
+    system-ui,
+sans-serif;
+background-image: url("paper.gif");
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 300px;
+}
+.top-div{
+    width: 700px;
+    padding-left: 90px;
+    padding-top: 60px;
+}
+.top-paragraph{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.top-span{
+ color: orange;
+}
+
+.top-content-font{
+    font-size: 70px;
+}
+.order-button{
+    text-decoration: none;
+    border: 2px solid orange;
+    border-radius:25px;
+    padding: 15px 80px 15px 80px;
+    color: white;
+    font-size: 20px;
+    background-color: orange;
+}
+.top-img{
+height: 700px;
+}
+
+
+
+/* second part */
+.second-img {
+    height: 700px;
+    margin-left: 150px;
+    margin-right: 80px;
+}
+.second-banner{
+    display: flex;
+    background-image: url("7.png");
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    
+}
+.contact-me{
+    text-decoration: none;
+    border: 2px solid orange;
+    border-radius:25px;
+    padding: 15px 80px 15px 80px;
+    color: white;
+    font-size: 25px;
+    background-color: orange;
+}
+.second-div{
+    margin-top: 200px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+.second-paragraph{
+    margin-bottom: 50px;
+}
+
+/* third part */
+.recipies{
+    text-align: center;
+    font-size: 25px;
+}
+.crud-recipies{
+    display: flex;
+    margin-left: 60px; 
+    margin-bottom: 60px;
+}
+.first-recipie{
+    width: 350px;
+    height: 300px;
+}
+.box-shadow{
+box-shadow: 10px 10px 30px gray;
+margin-left: 20px;
+margin-right: 20px;
+border-radius: 20px;
+    padding: 10px;
+}
+
+/* last banner */
+
+.last-banner{
+    display: flex;
+    text-align: center;
+    box-shadow: 10px 10px 30px gray;
+        margin-left: 80px;
+        margin-right: 20px;
+        border-radius: 20px;
+        padding: 10px;
+        margin-bottom: 100px;
+}
+.youtube{
+    margin-left: 200px;
+}
+
+/* last part */
+footer{
+    text-align: center;
+    border:15px solid;
+    padding: 40px;
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+}
